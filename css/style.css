@@ -196,7 +196,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 トップページ
 ================================================= */
 .top_eye_catch {
-  height: 750px;
+  height: 500px;
   color: rgb(0, 0, 0);
   font-weight: bold;
   background-image: url(../images/siteimage_page-0001.jpg);/* 背景画像 */
